@@ -3,4 +3,6 @@ I coded a survival game in C++ on a Mbed LPC1768 microcontroller, where a player
 
 Please open "Microcontroller mini-game Defence Line" presentation for details.
 
+Access video demonstration via the link: https://youtu.be/2o6DjbYQ1rU
+
 Since this is an assessed university project, I can share the code only by request.
